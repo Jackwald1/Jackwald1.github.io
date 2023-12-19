@@ -1,2 +1,2 @@
 # jackwald1.github.io
- This website is not officially associated with Scott Games, and was created for entertainment purposes only. Five Nights at Freddy's, Scott Games, and the original source code are property of Scott Cawthon. Enjoy!
+This website is not officially associated with Scott Games, and was created for entertainment purposes only. Five Nights at Freddy's, Scott Games, and the original source code are property of Scott Cawthon. Enjoy!
